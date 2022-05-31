@@ -27,7 +27,17 @@ This project is a part of a final exam after 3-months of Scala Academy at [Adfor
 </details>
 
 ### Project description
-The project does XYZ.
+This is OOP challenge. I commited what I had as it is not yet finished
+
+- task description:
+```
+Write a Calendar class that can have days with tasks assigned. The application should not allow the user to add overlapping (happening at the same time) tasks. Tasks can be recurring.
+
+Expected results
+        Write tests.
+Don’t forget about README with proper structure
+        Publish to a github repo
+```
 
 ## Getting Started
 The project is built with:
@@ -35,7 +45,7 @@ The project is built with:
 - sbt
 
 ## Usage
-- Clone the repository to the chosen directory with `git clone https://github.com/rafalkac02/adform-exam-1` command.
+- Clone the repository to the chosen directory with `git clone https://github.com/rafalkac02/adform-exam-4` command.
 - Run the application with `sbt run` command in the same directory
 - Test the application with `sbt test` command
 
